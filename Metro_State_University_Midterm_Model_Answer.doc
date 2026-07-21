@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<meta name="ProgId" content="Word.Document">
+<meta name="Generator" content="Microsoft Word compatible HTML">
+<title>Metro State University Midterm Exam Model Answer</title>
+<style>
+@page Section1 { size: 8.5in 11in; margin: 0.70in 0.78in 0.70in 0.78in; mso-header-margin: 0.3in; mso-footer-margin: 0.3in; }
+div.Section1 { page: Section1; }
+body { font-family: Aptos, Calibri, Arial, sans-serif; font-size: 10.5pt; line-height: 1.18; color: #242424; margin: 0; }
+p { margin: 0 0 7pt 0; }
+h1 { font-family: Aptos Display, Calibri, Arial, sans-serif; font-size: 16pt; color: #1f3756; margin: 16pt 0 7pt 0; page-break-after: avoid; }
+h2 { font-size: 12.5pt; color: #2d5c91; margin: 11pt 0 5pt 0; page-break-after: avoid; }
+h3 { font-size: 11.5pt; color: #1f3756; margin: 9pt 0 4pt 0; page-break-after: avoid; }
+.title-page { text-align: center; padding-top: 1.55in; }
+.eyebrow { font-size: 13pt; font-weight: bold; letter-spacing: 1.2pt; color: #2d5c91; }
+.main-title { font-family: Aptos Display, Calibri, Arial, sans-serif; font-size: 24pt; font-weight: bold; color: #1f3756; margin: 16pt 0 8pt 0; }
+.subtitle { font-size: 12pt; color: #666666; }
+.benchmark { margin-top: 34pt; font-size: 11pt; font-weight: bold; color: #1f3756; }
+.synthetic { margin-top: 7pt; font-style: italic; color: #555555; }
+.rule { width: 64%; border-top: 2px solid #2d5c91; margin: 22pt auto; }
+.source-note { font-size: 8.5pt; color: #666666; }
+.page-break { page-break-before: always; }
+.callout { border-left: 4px solid #2d5c91; background: #eef3f8; padding: 10pt 12pt; margin: 8pt 0 13pt 0; }
+.question { border: 1px solid #b6c8dc; background: #e5eef7; padding: 10pt 12pt; text-align: center; color: #1f3756; font-weight: bold; margin: 10pt 0; }
+.trigger { border: 1px solid #d6b656; background: #fff4cc; padding: 10pt 12pt; font-weight: bold; margin: 10pt 0; }
+ul, ol { margin-top: 3pt; margin-bottom: 8pt; }
+li { margin-bottom: 3pt; }
+table { border-collapse: collapse; width: 100%; margin: 8pt 0 12pt 0; page-break-inside: auto; }
+th { background: #1f3756; color: white; font-weight: bold; text-align: left; border: 1px solid #9aa9b8; padding: 5pt; vertical-align: middle; font-size: 8.2pt; }
+td { border: 1px solid #aeb9c4; padding: 5pt; vertical-align: top; font-size: 8.2pt; }
+tr:nth-child(even) td { background: #f5f8fb; }
+.kpi td, .kpi th { font-size: 7.7pt; }
+.memo-meta { width: 100%; }
+.memo-meta td:first-child { width: 13%; background: #1f3756; color: white; font-weight: bold; }
+.memo-meta td { font-size: 9.2pt; }
+.small { font-size: 8.5pt; color: #555555; }
+.keep { page-break-inside: avoid; }
+.center { text-align: center; }
+</style>
+</head>
+<body>
+<div class="Section1">
+<div class="title-page">
+  <div class="eyebrow">METRO STATE UNIVERSITY</div>
+  <div class="main-title">Midterm Exam Model Answer</div>
+  <div class="subtitle">Data-Driven Decision-Making for Business Leaders</div>
+  <div class="benchmark">Instructor Benchmark Copy</div>
+  <div class="synthetic">Synthetic AI Evaluation Use</div>
+  <div class="rule"></div>
+  <p class="source-note">Source basis: Midterm Exam case materials and DDDM Sessions 1-5, including CoNVO, evidence-based management, KPI design, double-loop learning, cognitive bias, and executive communication.</p>
+</div>
+
+<div class="page-break"></div>
+<h1>Model Answer</h1>
+<div class="callout">This response treats declining enrollment as a connected recruitment-efficiency, student-experience, and financial-sustainability problem. It applies the course's CoNVO framework, balances strategic KPIs with diagnostic and counterbalancing measures, integrates four forms of evidence, tests leadership assumptions through double-loop learning, and concludes with a concise executive recommendation.</div>
+
+<h1>Part 1: CoNVO Analysis</h1>
+<h2>Context</h2>
+<p>Metro State University is not facing a single enrollment problem. It is facing a connected <b>recruitment-efficiency, student-experience, and financial-sustainability problem</b>.</p>
+<p>Undergraduate enrollment declined from 12,400 to 11,200 between 2023 and 2025, a decrease of approximately 9.7%. Applications fell by only about 4.2%, while the acceptance rate increased from 58% to 65% and yield declined from 41% to 35%. This pattern suggests that the main issue is not simply insufficient awareness or application volume. MSU is admitting a larger share of applicants but persuading a smaller share of admitted students to enroll.</p>
+<p>Financial and student outcomes are deteriorating simultaneously. Marketing spending increased from $14 million to $24 million, while tuition revenue declined from $310 million to $289 million. Retention fell from 84% to 77%, graduation from 71% to 66%, and satisfaction from 82% to 73%. At the same time, average class size increased from 24 to 31 and advising wait time tripled from three to nine days. MSU now underperforms the peer median on every listed student-outcome measure while spending more than the peer median on marketing.</p>
+<p>The channel data further challenges the President's brand explanation. Digital advertising generates substantial application volume, but its 24% yield is far below high-school partnerships at 46%, events and direct outreach at 45%, and alumni and referrals at 61%. Using the reported spending, application, acceptance, and yield figures, digital advertising costs approximately $7,200 per matriculated student, compared with about $3,000 for high-school partnerships, $2,600 for direct outreach, and $1,400 for referrals. These are approximate calculations because the displayed rates are rounded, but the efficiency gap is too large to ignore.</p>
+<p>There is also a data-quality issue: Exhibit C is labeled "2024 Recruitment Channel Performance," although its totals align with the 2025 application and spending figures in the other exhibits. Leadership should reconcile the reporting period before using the exhibit for investment decisions.</p>
+<p class="source-note">Source basis: Midterm Exam, Exhibits A-D.</p>
+
+<h2>Need</h2>
+<p>Leadership's most urgent need is to <b>restore the economic and educational health of the student lifecycle</b>, from recruitment through persistence, rather than maximizing applications.</p>
+<p>Declining enrollment is an outcome, not necessarily the root problem. The evidence indicates at least four plausible underlying issues:</p>
+<ol>
+  <li>An inefficient recruitment-channel mix that favors volume over enrollment conversion.</li>
+  <li>A mismatch between recruited students and MSU's value proposition, affordability, programs, or campus experience.</li>
+  <li>Operational capacity problems, particularly advising delays and larger classes.</li>
+  <li>Weak measurement discipline around technology, programming, and marketing investments.</li>
+</ol>
+<p>The claim that MSU has a brand problem may therefore be too narrow. The more useful analytic question is: <b>Why are admitted students increasingly declining to enroll, and why are enrolled students increasingly dissatisfied or leaving?</b></p>
+<p>This interpretation follows CoNVO's emphasis on understanding the environment and drivers before selecting a solution, translating the situation into decision questions, defining the desired future state, and measuring final impact.</p>
+
+<h2>Vision</h2>
+<p>Over the next two to three years, MSU should become a university that:</p>
+<ul>
+  <li>recruits students who are likely to enroll, persist, and succeed;</li>
+  <li>provides timely advising and manageable learning conditions;</li>
+  <li>allocates marketing and student-success spending according to demonstrated impact;</li>
+  <li>returns retention, graduation, and satisfaction to at least peer levels; and</li>
+  <li>produces sustainable tuition revenue without relying on continually increasing acquisition spending.</li>
+</ul>
+<p>Success is not merely returning enrollment to 12,400 students. MSU could increase enrollment temporarily by admitting more students, offering unsustainable discounts, or relaxing standards. The stronger vision is sustainable enrollment supported by student fit, experience, completion, and financial contribution.</p>
+
+<h2>Outcome</h2>
+<p>Leadership should define success through a balanced scorecard covering:</p>
+<ul>
+  <li>recruitment conversion and acquisition efficiency;</li>
+  <li>student retention and completion;</li>
+  <li>student experience and service capacity;</li>
+  <li>tuition revenue and contribution; and</li>
+  <li>unintended consequences such as reduced academic quality or worsening satisfaction.</li>
+</ul>
+<p>Over 12 months, MSU should seek to improve retention from 77% to at least 80%, raise overall yield from 35% to at least 38%, reduce advising wait time from nine days to five or fewer, restore satisfaction to at least the 78% peer median, and reduce cost per matriculated student. Over two to three years, retention and graduation should meet or exceed peer benchmarks, with tuition revenue recovering without another disproportionate increase in marketing spending.</p>
+
+<div class="page-break"></div>
+<h1>Part 2: KPI Evaluation and Evidence-Based Management</h1>
+<p>Metrics quantify processes or activities, while KPIs connect measures to specific strategic goals and targets. Good KPI design should be specific, measurable, achievable, relevant, and time-bound.</p>
+<table class="kpi">
+<thead><tr>
+<th style="width:14%">Measure</th><th style="width:25%">Definition and 12-Month Target</th><th style="width:12%">Classification</th><th style="width:19%">Objective</th><th style="width:10%">Indicator</th><th style="width:20%">Limitation or Risk</th>
+</tr></thead>
+<tbody>
+<tr><td><b>First-year retention rate</b></td><td>Percentage of first-year students who return for year two. Increase from 77% to at least 80%.</td><td>Strategic KPI</td><td>Improve student success, lifetime tuition contribution, and institutional stability.</td><td>Primarily lagging</td><td>Does not explain why students leave. Over-focus could encourage reduced academic rigor or inappropriate retention practices.</td></tr>
+<tr><td><b>Enrollment yield by recruitment channel</b></td><td>Percentage of admitted students who enroll, reported separately by channel and student segment. Raise overall yield to at least 38% and digital yield above 27-30%.</td><td>Strategic KPI</td><td>Improve recruitment conversion and identify channels producing students who value MSU's offer.</td><td>Primarily leading</td><td>Yield can be increased through excessive discounts or looser admissions standards, neither of which guarantees retention.</td></tr>
+<tr><td><b>Cost per matriculated student by channel</b></td><td>Recruitment spending divided by the number of students who actually enroll from each channel. Reduce blended cost by at least 15%.</td><td>Strategic KPI</td><td>Improve marketing productivity and financial sustainability.</td><td>Primarily lagging</td><td>May undervalue brand-building activity or encourage recruitment of inexpensive but poorly matched students.</td></tr>
+<tr><td><b>Median advising wait time</b></td><td>Median days between an advising request and a completed appointment, segmented by school and student group. Reduce from nine days to five or fewer.</td><td>Diagnostic metric</td><td>Identify service-capacity constraints that may contribute to dissatisfaction and attrition.</td><td>Leading</td><td>Can be gamed through short, low-quality appointments or closing requests without resolving student needs.</td></tr>
+<tr><td><b>Student satisfaction rate</b></td><td>Percentage of students reporting positive overall satisfaction, supplemented by advising and classroom-experience items. Restore from 73% to at least 78%.</td><td>Counterbalancing measure</td><td>Prevent cost cutting, enrollment growth, or efficiency efforts from degrading the student experience.</td><td>Primarily leading</td><td>Satisfaction is subjective and can be influenced by response bias. It should not replace measures of learning or completion.</td></tr>
+</tbody>
+</table>
+<p>This scorecard is deliberately balanced. Yield and acquisition cost examine recruitment efficiency, retention captures the long-term student outcome, advising wait time diagnoses a plausible operational cause, and satisfaction prevents leadership from improving financial or volume measures at the expense of educational quality. The course materials similarly emphasize that focusing too heavily on one measure can create bad behavior or obscure long-term health.</p>
+
+<h1>Part 3: Evidence Portfolio</h1>
+<table>
+<thead><tr><th style="width:15%">Evidence Type</th><th style="width:30%">Specific Source</th><th style="width:28%">Question Answered</th><th style="width:27%">Limitation if Used Alone</th></tr></thead>
+<tbody>
+<tr><td><b>Operational data</b></td><td>A student-level longitudinal dataset connecting recruitment source, application, admission, financial-aid offer, deposit, enrollment, advising usage, course performance, retention, and graduation.</td><td>At what points do students leave the funnel, and which channels, programs, services, or student segments are associated with stronger enrollment and persistence?</td><td>Operational data is observational. Relationships may reflect student characteristics or other confounding variables rather than the causal effect of a program or channel.</td></tr>
+<tr><td><b>Theoretical research</b></td><td>Peer-reviewed research on college choice, financial-aid responsiveness, advising caseloads, class size, belonging, engagement, and student retention.</td><td>Which explanations and interventions are supported by evidence across higher-education settings?</td><td>Findings from other institutions may not transfer directly to MSU's students, programs, geography, or competitive environment.</td></tr>
+<tr><td><b>Aggregate experience</b></td><td>Structured surveys and interviews with admitted students who did not enroll, current students, stop-outs, graduates, advisors, and faculty.</td><td>Why do admitted students reject MSU, and what experiences influence current students' satisfaction and decisions to remain?</td><td>Respondents may not represent the full population, and responses may be affected by recall, self-selection, or social-desirability bias.</td></tr>
+<tr><td><b>Expert judgment</b></td><td>An independent higher-education enrollment and retention specialist, supported by leaders from comparable universities that improved yield and persistence.</td><td>Which interventions are operationally feasible, what tradeoffs are likely, and how should MSU structure pilots and evaluation?</td><td>Experts may import assumptions from other institutions, favor familiar solutions, or have commercial interests in particular interventions.</td></tr>
+</tbody>
+</table>
+<p>These sources should be integrated rather than ranked as substitutes. Operational data establishes what is happening; research identifies plausible mechanisms; aggregate experience explains how students and employees experience the system; and expert judgment helps interpret tradeoffs and second-order consequences. This matches the course's evidence framework, which distinguishes internal operational facts, formal research, recurring patterns in human experience, and interpretation from people with deep relevant expertise.</p>
+
+<div class="page-break"></div>
+<h1>Part 4: Reframing and Double-Loop Learning</h1>
+<p>Increasing digital advertising without further investigation would represent <b>single-loop learning</b> because leadership would be adjusting an existing tactic to address the enrollment shortfall while leaving its underlying assumptions unchanged. The implicit logic is:</p>
+<div class="question">Enrollment is declining &rarr; awareness must be weak &rarr; purchase more advertising.</div>
+<p>That approach asks how MSU can execute its current recruitment model more aggressively. It does not ask whether the model itself is targeting the right students, communicating a compelling value proposition, converting admitted students, or supporting students adequately once they arrive.</p>
+<p>Double-loop learning distinguishes between doing an established activity better and reconsidering whether the organization is doing the right activity in the first place. The course example similarly contrasts immediately launching a discount campaign with investigating whether lower sales reflect product mix, customer experience, channel substitution, or regional changes.</p>
+<p><b>Stronger double-loop question:</b> Is MSU's enrollment decline primarily caused by insufficient market awareness, or by weaknesses in student fit, affordability, admitted-student conversion, and the educational experience?</p>
+<p>The strongest existing disconfirming evidence is the recruitment-channel performance. Digital advertising already produces 12,000 applications and has the highest acceptance rate, yet its 24% yield is dramatically lower than the yield from every other channel. Applications have declined modestly, while yield, satisfaction, and retention have declined much more sharply. That evidence is inconsistent with the idea that additional top-of-funnel advertising alone will solve the problem.</p>
+
+<h1>Part 5: Cognitive Biases</h1>
+<h2>1. Confirmation Bias</h2>
+<p>Confirmation bias is the tendency to seek, interpret, and remember evidence that supports an existing belief while discounting conflicting evidence.</p>
+<p>In this case, the President believes weak brand strength is causing lower enrollment. Leadership may therefore emphasize digital advertising's 12,000 applications as evidence that the channel is productive while minimizing its weak yield, high approximate acquisition cost, and the deterioration in advising, class size, satisfaction, and retention.</p>
+<p>To mitigate the bias, MSU should establish success and failure criteria before reviewing investment proposals. For example, incremental digital spending should be approved only if it meets a predetermined cost-per-matriculant and yield threshold. The executive committee should also assign an independent team to search specifically for evidence that contradicts the brand hypothesis and require competing explanations to be evaluated using the same criteria.</p>
+
+<h2>2. Sunk Cost Fallacy</h2>
+<p>The sunk cost fallacy is the tendency to continue supporting an initiative because substantial time, money, or effort has already been invested, even when current evidence no longer justifies continued investment.</p>
+<p>MSU has already invested heavily in digital advertising, student-success technology, and campus programming. Leaders may defend continued spending because discontinuing or redesigning these initiatives could be interpreted as admitting that earlier decisions were unsuccessful. This could lead MSU to add further spending without establishing whether existing investments caused any improvement.</p>
+<p>Leadership should conduct a zero-based portfolio review that treats prior spending as unrecoverable. For every investment, the committee should ask: <b>Knowing what we know today, would we approve this investment again?</b> Each initiative should receive a measurable continuation threshold, an accountable owner, and a review date. Investments that fail to meet their threshold should be redesigned, reduced, or discontinued regardless of their historical cost.</p>
+
+<div class="page-break"></div>
+<h1>Part 6: Executive Recommendation Memo</h1>
+<table class="memo-meta">
+<tr><td>To</td><td>Metro State University Executive Committee</td></tr>
+<tr><td>From</td><td>Data-Driven Decision-Making Analysis Team</td></tr>
+<tr><td>Subject</td><td><b>Rebalancing Recruitment Investment and Restoring Student Retention</b></td></tr>
+<tr><td>Decision</td><td>Adopt a lifecycle-based enrollment strategy and test interventions against defined continuation thresholds.</td></tr>
+</table>
+<p>Metro State's primary challenge is not insufficient application volume. The university is spending more on marketing while generating lower enrollment, weaker yield, declining tuition revenue, and worsening student outcomes. Digital advertising produces applications but converts admitted students at a much lower rate than partnerships, referrals, and direct outreach. Meanwhile, larger classes and extended advising waits coincide with lower satisfaction and retention.</p>
+<p>The university's immediate priority should be to improve the value and performance of the full student lifecycle: recruit students who are likely to enroll and succeed, remove service barriers that contribute to attrition, and establish whether existing investments produce measurable outcomes.</p>
+<p><b>During the next 90 days, MSU should:</b></p>
+<ol>
+  <li>Reallocate a portion of incremental digital spending toward high-school partnerships, alumni referrals, and direct outreach while preserving a controlled digital test group.</li>
+  <li>Build a student-level recruitment-to-retention dataset that connects channel, aid, enrollment, advising, academic progress, and persistence.</li>
+  <li>Investigate admitted students who did not enroll and students who left MSU through structured surveys and interviews.</li>
+  <li>Launch a targeted advising-capacity pilot in the divisions with the longest waits and highest attrition.</li>
+  <li>Require every major marketing, technology, and student-program investment to have a baseline, target, accountable owner, and continuation threshold.</li>
+</ol>
+<p>Over the next year, leadership should monitor retention most closely, supported by channel yield, cost per matriculated student, advising wait time, and student satisfaction. Enrollment growth that is not accompanied by stronger retention and experience should not be considered success.</p>
+<div class="trigger">Decision trigger: If first-year retention remains below 79% after 12 months, leadership should stop expanding the current intervention portfolio and redesign it using cohort-level evidence before committing additional funding.</div>
+<p>This recommendation prioritizes evidence, student outcomes, and financial discipline rather than presuming that a larger advertising budget will address a problem that may originate elsewhere.</p>
+
+<h1>Course Source Set</h1>
+<ul>
+  <li>Midterm Exam: Metro State University case and Exhibits A-D</li>
+  <li>DDDM Session 1: Foundations of data-driven decision-making</li>
+  <li>DDDM Session 2: CoNVO framework</li>
+  <li>DDDM Session 3: Evidence-based management, KPIs, reframing, and double-loop learning</li>
+  <li>Assignment: Recognizing Cognitive Biases</li>
+  <li>DDDM Sessions 4-5: Bias analysis, applied CoNVO, and executive communication</li>
+</ul>
+</div>
+</body>
+</html>
