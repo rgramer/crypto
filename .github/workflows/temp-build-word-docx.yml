@@ -20,20 +20,19 @@ jobs:
           ref: temporary-word-artifact
           fetch-depth: 0
 
-      - name: Install LibreOffice
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libreoffice
+      - name: Convert HTML-based Word document to a real DOCX
+        uses: docker://pandoc/core:latest
+        with:
+          args: >-
+            Metro_State_University_Midterm_Model_Answer.doc
+            --from=html
+            --to=docx
+            --output=Metro_State_University_Midterm_Model_Answer.docx
 
-      - name: Convert to a real DOCX file
+      - name: Validate and commit DOCX to temporary artifact branch
         run: |
-          mkdir -p converted
-          libreoffice --headless --convert-to docx --outdir converted Metro_State_University_Midterm_Model_Answer.doc
-          test -f converted/Metro_State_University_Midterm_Model_Answer.docx
-          cp converted/Metro_State_University_Midterm_Model_Answer.docx ./Metro_State_University_Midterm_Model_Answer.docx
-
-      - name: Commit DOCX to temporary artifact branch
-        run: |
+          test -s Metro_State_University_Midterm_Model_Answer.docx
+          file Metro_State_University_Midterm_Model_Answer.docx
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add Metro_State_University_Midterm_Model_Answer.docx
