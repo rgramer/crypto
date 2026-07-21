@@ -1,6 +1,9 @@
 name: Temporary DOCX Builder
 
 on:
+  pull_request:
+    branches:
+      - main
   push:
     branches:
       - main
